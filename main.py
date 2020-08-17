@@ -21,18 +21,18 @@ warnings.filterwarnings("ignore")
 # Set display = True if outputs are to be seen.
 # Note that this displays every single output from each folder
 # Only set display = True when one of the following functions is being run and outputs are desired
-display = True
+display = False
 
 makeDir()
 print("Directories Made")
 
-# highpass_filter(display)
+highpass_filter(display)
 print("High pass filter completed")
 
-# binary_threshold(display)
+binary_threshold(display)
 print("Binary Thresholding Complete")
 
-# edge_plus_thres(display)
+edge_plus_thres(display)
 print("Edge Detection + Thresholding Complete")
 
 selective_blur_main(display)
