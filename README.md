@@ -1,7 +1,7 @@
 # ECE6258
 ECE6258 At Georgia Tech - Final Project
 
-<b>Required Libraries:</b>
+<b>Required Libraries:</b><br>
 Tensorflow<br>
 Numpy<br>
 OpenCV (cv2)<br>
