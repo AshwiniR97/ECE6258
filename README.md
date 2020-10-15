@@ -2,13 +2,13 @@
 ECE6258 At Georgia Tech - Final Project
 
 Required Libraries:
-Tensorflow
-Numpy
-OpenCV (cv2)
-Dippykit
-random
-matplotlib
-os
+Tensorflow<br>
+Numpy<br>
+OpenCV (cv2)<br>
+Dippykit<br>
+random<br>
+matplotlib<br>
+os<br>
 
 Folder structure required for execution:<br>
 ├───Final Project Combined<br>
